@@ -30,6 +30,24 @@ For first 10 days:
 - Prepare sketch/image with architecture,
 - Extend Readme,
 
+## Issues
+
+- [ ] [Initialize Project Structure](https://github.com/MateuszHamera/eShop/issues/1)
+- [ ] [Configure Docker](https://github.com/MateuszHamera/eShop/issues/2)
+- [ ] [User Authentication](https://github.com/MateuszHamera/eShop/issues/3)
+- [ ] [Product Catalog](https://github.com/MateuszHamera/eShop/issues/4)
+- [ ] [Shopping Cart](https://github.com/MateuszHamera/eShop/issues/5)
+- [ ] [Order Processing](https://github.com/MateuszHamera/eShop/issues/6)
+- [ ] [Payment Integration](https://github.com/MateuszHamera/eShop/issues/7)
+- [ ] [GraphQL Setup](https://github.com/MateuszHamera/eShop/issues/8)
+- [ ] [Product Recommendations](https://github.com/MateuszHamera/eShop/issues/9)
+- [ ] [User Reviews and Ratings](https://github.com/MateuszHamera/eShop/issues/10)
+- [ ] [Unit and Integration Tests](https://github.com/MateuszHamera/eShop/issues/11)
+- [ ] [API Documentation](https://github.com/MateuszHamera/eShop/issues/12)
+- [ ] [CI/CD Pipeline](https://github.com/MateuszHamera/eShop/issues/13)
+- [ ] [Logging and Monitoring](https://github.com/MateuszHamera/eShop/issues/14)
+
+
 ## Days
 
 2/100
