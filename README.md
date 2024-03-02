@@ -29,3 +29,7 @@ For first 10 days:
 - Prepare list of issues which are necessary to implents,
 - Prepare sketch/image with architecture,
 - Extend Readme,
+
+## Days
+
+2/100
