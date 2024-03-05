@@ -10,7 +10,7 @@ The reason is that during implementation I will get to know different technologi
 ## Architecture / Component
 
 In this app I want to based on:
-- Blazor,
+- Blazor WASM,
 - MinAPI,
 - Docker,
 - MongoDb,
@@ -22,6 +22,7 @@ Oter topic:
 - GraphQL,
 - Github Action,
 - CI/CD by Github,
+- Redis,
 
 ## Plans
 
@@ -50,4 +51,4 @@ For first 10 days:
 
 ## Days
 
-4/100
+5/100
