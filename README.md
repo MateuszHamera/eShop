@@ -51,4 +51,4 @@ For first 10 days:
 
 ## Days
 
-5/100
+6/100
