@@ -33,7 +33,7 @@ For first 10 days:
 
 ## Issues
 
-- [ ] [Initialize Project Structure](https://github.com/MateuszHamera/eShop/issues/1)
+- [x] [Initialize Project Structure](https://github.com/MateuszHamera/eShop/issues/1)
 - [ ] [Configure Docker](https://github.com/MateuszHamera/eShop/issues/2)
 - [ ] [User Authentication](https://github.com/MateuszHamera/eShop/issues/3)
 - [ ] [Product Catalog](https://github.com/MateuszHamera/eShop/issues/4)
@@ -51,4 +51,4 @@ For first 10 days:
 
 ## Days
 
-6/100
+7/100
