@@ -2,6 +2,12 @@
 
 Aplication which allow sell own product.
 
+
+<p align="center">
+  <img src="https://github.com/MateuszHamera/eShop/blob/main/logo.jpg" alt="eShop Logo"/>
+</p>
+
+
 ## Limitations/Problem
 
 In this application I want to deliver complete product, I not sure if I can do it in only 100 days, but I will try.
@@ -48,6 +54,9 @@ For first 10 days:
 - [ ] [CI/CD Pipeline](https://github.com/MateuszHamera/eShop/issues/13)
 - [ ] [Logging and Monitoring](https://github.com/MateuszHamera/eShop/issues/14)
 
+## Architecture
+
+![Alt text](https://github.com/MateuszHamera/eShop/blob/main/architecture.jpg)
 
 ## Days
 
