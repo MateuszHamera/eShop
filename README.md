@@ -32,10 +32,9 @@ Oter topic:
 
 ## Plans
 
-For first 10 days:
-- Prepare list of issues which are necessary to implents,
-- Prepare sketch/image with architecture,
-- Extend Readme,
+For 10-20 days:
+- start implementation API with use DB,
+- configurate docker,
 
 ## Issues
 
@@ -60,4 +59,4 @@ For first 10 days:
 
 ## Days
 
-11/100
+12/100
