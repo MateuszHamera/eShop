@@ -39,7 +39,7 @@ For 10-20 days:
 ## Issues
 
 - [x] [Initialize Project Structure](https://github.com/MateuszHamera/eShop/issues/1)
-- [ ] [Configure Docker](https://github.com/MateuszHamera/eShop/issues/2)
+- [x] MongoDB [ ] Rabbit -> [Configure Docker](https://github.com/MateuszHamera/eShop/issues/2)
 - [ ] [User Authentication](https://github.com/MateuszHamera/eShop/issues/3)
 - [ ] [Product Catalog](https://github.com/MateuszHamera/eShop/issues/4)
 - [ ] [Shopping Cart](https://github.com/MateuszHamera/eShop/issues/5)
@@ -59,4 +59,4 @@ For 10-20 days:
 
 ## Days
 
-13/100
+14/100
