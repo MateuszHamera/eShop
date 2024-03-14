@@ -11,5 +11,15 @@ services:
     volumes:
       - mongodb_data:/data/db
 
+rabbitmq:
+    image: "rabbitmq:3-management"
+    container_name: rabbitmq
+    ports:
+      - "5672:5672" # Used by RabbitMQ clients
+      - "15672:15672" # RabbitMQ Management UI
+    environment:
+      RABBITMQ_DEFAULT_USER: "user"
+      RABBITMQ_DEFAULT_PASS: "password"
+
 volumes:
   mongodb_data:
