@@ -11,7 +11,7 @@ services:
     volumes:
       - mongodb_data:/data/db
 
-rabbitmq:
+  rabbitmq: 
     image: "rabbitmq:3-management"
     container_name: rabbitmq
     ports:
