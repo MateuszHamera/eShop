@@ -32,9 +32,9 @@ Oter topic:
 
 ## Plans
 
-For 10-20 days:
-- start implementation API with use DB,
-- configurate docker,
+For 20-30 days:
+- work with frontend with Authorization,
+- work with Prodcuts for front,
 
 ## Issues
 
@@ -45,7 +45,7 @@ For 10-20 days:
 - [ ] [Shopping Cart](https://github.com/MateuszHamera/eShop/issues/5)
 - [ ] [Order Processing](https://github.com/MateuszHamera/eShop/issues/6)
 - [ ] [Payment Integration](https://github.com/MateuszHamera/eShop/issues/7)
-- [ ] [GraphQL Setup](https://github.com/MateuszHamera/eShop/issues/8)
+- [x] [GraphQL Setup](https://github.com/MateuszHamera/eShop/issues/8)
 - [ ] [Product Recommendations](https://github.com/MateuszHamera/eShop/issues/9)
 - [ ] [User Reviews and Ratings](https://github.com/MateuszHamera/eShop/issues/10)
 - [ ] [Unit and Integration Tests](https://github.com/MateuszHamera/eShop/issues/11)
@@ -59,4 +59,4 @@ For 10-20 days:
 
 ## Days
 
-19/100
+20/100
