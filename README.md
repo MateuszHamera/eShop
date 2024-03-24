@@ -49,7 +49,7 @@ For 20-30 days:
 - [ ] [Product Recommendations](https://github.com/MateuszHamera/eShop/issues/9)
 - [ ] [User Reviews and Ratings](https://github.com/MateuszHamera/eShop/issues/10)
 - [ ] [Unit and Integration Tests](https://github.com/MateuszHamera/eShop/issues/11)
-- [ ] [API Documentation](https://github.com/MateuszHamera/eShop/issues/12)
+- [x] [API Documentation](https://github.com/MateuszHamera/eShop/issues/12)
 - [ ] [CI/CD Pipeline](https://github.com/MateuszHamera/eShop/issues/13)
 - [ ] [Logging and Monitoring](https://github.com/MateuszHamera/eShop/issues/14)
 
